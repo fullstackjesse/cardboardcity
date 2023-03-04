@@ -1,9 +1,9 @@
 # Site settings
-title: Jesse Hill TinDog
-author:
-  name: Jesse Hill
+title: cardboard city
+author: jesse hill 
+  name: cardboardcity
   email: fullstackjh@gmail.com
-description: "tindog"
+description: "cardboardcity"
 
 # Build settings
 remote_theme: jekyll/minima
